@@ -64,8 +64,4 @@ Check out the demo here: [demo.mp4](demo.mp4)
 - **Music & SFX:** Produced in Audacity (≥1′, 2 melodies + intro narration).
 - **Logo/UI:** Designed in Photoshop/GIMP.
 
----
-
-## 📄 License
-Add your preferred license here (e.g. MIT) or leave it empty if you don’t want to include one.
 
