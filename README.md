@@ -63,7 +63,6 @@ Check out the demo here: [demo.mp4](demo.mp4)
 - **3D Reward:** Created in Blender.
 - **Music & SFX:** Produced in Audacity (≥1′, 2 melodies + intro narration).
 - **Logo/UI:** Designed in Photoshop/GIMP.
-- **Code & development:** *[Your Name / Student ID]*.
 
 ---
 
